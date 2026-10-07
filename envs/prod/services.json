@@ -1,1 +1,1 @@
-{"services":["gke"]}
+{"services":["big_table","pubsub","spanner"]}
