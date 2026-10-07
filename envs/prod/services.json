@@ -1,1 +1,1 @@
-{"services":["big_table","spanner","pubsub"]}
+{"services":["gke","alloy_db"]}
